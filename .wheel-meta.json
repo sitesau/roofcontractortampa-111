@@ -1,0 +1,22 @@
+{
+  "wheel_id": 797,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-111",
+  "project": "roof-repair-tampa-myths-ee9f10941c43e22c107843e11a2a48cf21dc4be",
+  "parent_t1_ref": "roofcontractortampa-155",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa myths",
+  "intended_url": "http://roof-repair-tampa-myths-ee9f10941c43e22c107843e11a2a48cf21dc4be.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "433c22cb2260c930",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/roofcontractortampa-155/",
+      "anchor": "https://sitesau.github.io/roofcontractortampa-155/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
